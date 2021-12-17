@@ -1,0 +1,536 @@
+        @media (max-width:768px) {
+            .heading-content1 {
+                width: 34%;
+                font-size: 30px;
+                left: 171px;
+                top: 37%;
+            }
+            .heading-content2 {
+                top: 323px;
+                left: 164px;
+            }
+            .ul {
+                left: 55%;
+            }
+            .imag1 {
+                height: 247px;
+                left: 446px;
+            }
+            .heading-conten1 {
+                left: 165px;
+            }
+            .main-box1 {
+                left: 1px;
+                top: -30px;
+                width: 63%;
+                height: 255px;
+            }
+            .icon1 {
+                left: 202px;
+                font-size: 42px;
+            }
+            .paragraph-main {
+                left: 120px;
+                font-size: 51px;
+            }
+            .main-box2 {
+                left: 487px;
+                top: -33px;
+                width: 63%;
+                height: 255px;
+            }
+            .icon2 {
+                left: 222px;
+                font-size: 42px;
+            }
+            .paragraph-main1 {
+                left: 149px;
+                font-size: 51px;
+            }
+            .main-box3 {
+                left: 0px;
+                top: 224px;
+                width: 63%;
+            }
+            .icon3 {
+                left: 202px;
+                font-size: 42px;
+            }
+            .paragraph-main2 {
+                left: 159px;
+                font-size: 51px;
+            }
+            .main-box4 {
+                left: 485px;
+                top: 226px;
+                width: 63%;
+            }
+            .icon4 {
+                left: 222px;
+                font-size: 42px;
+            }
+            .paragraph-main3 {
+                left: 149px;
+                font-size: 51px;
+            }
+            .kids-box {
+                top: 176px;
+                left: 0px;
+                width: 126%;
+            }
+            .heading-kids {
+                top: 60px;
+                width: 68%;
+                left: 274px;
+            }
+            .paragraph-kids {
+                top: 120px;
+                width: 555px;
+                left: 238px;
+            }
+            .pre-school {
+                top: 176px;
+                width: 126%;
+                height: 258vh;
+            }
+            .imag2 {
+                height: 515px;
+                left: 181px;
+                width: 63%;
+            }
+            .inner1 {
+                left: 177px;
+                top: 695px;
+                width: 32%;
+            }
+            .inner2 {
+                left: 498px;
+                width: 31%;
+                top: 696px;
+            }
+            .heading-school {
+                left: 313px;
+                top: 53px;
+            }
+            .imag3 {
+                height: 257px;
+                width: 32%;
+                top: 970px;
+                left: 177px;
+            }
+            .imag4 {
+                width: 31%;
+                height: 261px;
+                top: 969px;
+                left: 502px;
+            }
+            .key {
+                top: 168px;
+                width: 126%;
+                left: 0px;
+                height: 160vh;
+            }
+            .heading-key {
+                left: 315px;
+            }
+            .heading-com {
+                left: 242px;
+            }
+            .key1 {
+                width: 38%;
+                height: 289px;
+                top: 165px;
+                left: 73px;
+            }
+            .key2 {
+                width: 39%;
+                height: 290px;
+                top: 166px;
+                left: 484px;
+            }
+            .key3 {
+                width: 38%;
+                height: 271px;
+                top: 486px;
+                left: 69px;
+            }
+            .key4 {
+                width: 39%;
+                height: 275px;
+                top: 482px;
+                left: 484px;
+            }
+            .child-class {
+                top: 168px;
+                width: 126%;
+                left: 0px;
+            }
+            .child-content {
+                left: 199px;
+            }
+            .methods {
+                height: 100vh;
+                top: 168px;
+                width: 126%;
+            }
+            .method1 {
+                width: 30%;
+                height: 413px;
+                left: 335px;
+                top: 40px
+            }
+            .image5 {
+                width: 30%;
+                height: 413px;
+                left: 25px;
+                top: 40px;
+            }
+            .image6 {
+                width: 30%;
+                height: 418px;
+                left: 647px;
+                top: 40px;
+            }
+            .education {
+                top: 168px;
+                width: 126%;
+                height: 214vh;
+            }
+            .heading-edu {
+                left: 339px;
+                top: 20px;
+                width: 23%;
+            }
+            .image7 {
+                left: 642px;
+                top: 93px;
+            }
+            .edu-content1 {
+                left: 280px;
+                top: 115px;
+            }
+            .edu-content2 {
+                left: 288px;
+                top: 319px;
+            }
+            .edu-content3 {
+                left: 294px;
+                top: 540px;
+            }
+            .edu-content4 {
+                left: 20px;
+                top: 720px;
+            }
+            .edu-content5 {
+                left: 20px;
+                top: 853px;
+            }
+            .edu-content6 {
+                left: 20px;
+                top: 983px;
+            }
+            .comfort {
+                top: 189px;
+                width: 126%;
+                height: 130vh;
+            }
+            .comfort1 {
+                left: 480px;
+            }
+            .image8 {
+                left: 94px;
+                top: 139px;
+            }
+            .paragraph-comfort1 {
+                width: 103%;
+            }
+            .info {
+                top: 188px;
+                width: 126%;
+            }
+            .info1 {
+                left: 65px;
+            }
+            .info2 {
+                left: 445px;
+            }
+            .info3 {
+                left: 790px;
+            }
+            .box1 {
+                top: 191px;
+                width: 126%;
+            }
+            .two {
+                left: 94px;
+            }
+            .three {
+                left: 418px;
+            }
+            .four {
+                left: 755px;
+            }
+        }
+        
+        @media (max-width:480px) {
+            .heading-content {
+                left: 43px;
+                top: 30px;
+            }
+            .ul {
+                left: 9%;
+                top: 18%;
+            }
+            .heading-content1 {
+                top: 139px;
+                width: 54%;
+                left: 364px;
+            }
+            .heading-content2 {
+                top: 281px;
+                width: 56%;
+                left: 370px;
+            }
+            .imag1 {
+                left: 367px;
+                top: 329px;
+                width: 56%;
+            }
+            .main-box1 {
+                left: 1px;
+                top: 27px;
+                width: 222%;
+                height: 307px;
+            }
+            .icon1 {
+                left: 456px;
+                font-size: 78px;
+            }
+            .paragraph-main {
+                left: 384px;
+                font-size: 51px;
+            }
+            .main-box2 {
+                left: 1px;
+                top: 328px;
+                width: 222%;
+                height: 255px;
+            }
+            .icon2 {
+                left: 456px;
+                font-size: 78px;
+            }
+            .paragraph-main1 {
+                left: 384px;
+                font-size: 51px;
+            }
+            .main-box3 {
+                left: 0px;
+                top: 583px;
+                width: 222%;
+                height: 269px;
+            }
+            .icon3 {
+                left: 456px;
+                font-size: 78px;
+            }
+            .paragraph-main2 {
+                left: 384px;
+                font-size: 51px;
+            }
+            .main-box4 {
+                left: 0px;
+                top: 854px;
+                width: 222%;
+                height: 225px;
+            }
+            .icon4 {
+                left: 456px;
+                font-size: 78px;
+            }
+            .paragraph-main3 {
+                left: 456px;
+                font-size: 51px;
+            }
+            .kids-box {
+                top: 817px;
+                width: 222%;
+            }
+            .heading-kids {
+                top: 76px;
+            }
+            .paragraph-kids {
+                top: 156px;
+            }
+            .pre-school {
+                top: 819px;
+                width: 222%;
+                height: 280vh;
+            }
+            .heading-school {
+                font-size: 30px;
+                width: 20%;
+            }
+            .inner1 {
+                top: 667px;
+                left: 181px;
+                width: 50%;
+            }
+            .inner2 {
+                top: 952px;
+                left: 180px;
+                width: 50%;
+            }
+            .imag2 {
+                width: 50%;
+                height: 458px;
+                top: 177px;
+            }
+            .imag3 {
+                width: 51%;
+                height: 400px;
+                top: 1251px;
+            }
+            .imag4 {
+                width: 51%;
+                height: 331px;
+                left: 179px;
+                margin-top: 719px;
+            }
+            .key {
+                top: 1502px;
+                left: 0px;
+                width: 222%;
+                height: 287vh;
+            }
+            .key1 {
+                width: 50%;
+                height: 239px;
+                top: 201px;
+                left: 231px;
+            }
+            .key2 {
+                width: 51%;
+                height: 267px;
+                top: 488px;
+                left: 223px;
+            }
+            .key3 {
+                width: 52%;
+                height: 246px;
+                top: 793px;
+                left: 222px;
+            }
+            .key4 {
+                width: 52%;
+                height: 275px;
+                top: 1096px;
+                left: 226px;
+            }
+            .child-class {
+                top: 1501px;
+                width: 222%;
+            }
+            .child-content {
+                left: 229px;
+            }
+            .methods {
+                top: 1501px;
+                width: 222%;
+                height: 320vh;
+            }
+            .image5 {
+                width: 39%;
+                height: 289px;
+                top: 86px;
+                left: 311px;
+            }
+            .image6 {
+                width: 39%;
+                height: 326px;
+                top: 824px;
+                left: 320px;
+            }
+            .method1 {
+                width: 39%;
+                height: 352px;
+                top: 418px;
+                left: 317px;
+            }
+            .education {
+                top: 1498px;
+                width: 222%;
+                height: 253vh;
+            }
+            .heading-edu {
+                left: 405px;
+                top: 20px;
+                width: 23%;
+            }
+            .image7 {
+                left: 359px;
+                top: 403px;
+            }
+            .edu-content1 {
+                left: 338px;
+                top: 115px;
+            }
+            .edu-content2 {
+                left: 357px;
+                top: 215px;
+            }
+            .edu-content3 {
+                left: 362px;
+                top: 314px;
+            }
+            .edu-content4 {
+                left: 359px;
+                top: 949px;
+            }
+            .edu-content5 {
+                left: 354px;
+                top: 1018px;
+            }
+            .edu-content6 {
+                left: 355px;
+                top: 1093px;
+            }
+            .comfort {
+                top: 1717px;
+                left: 0px;
+                width: 222%;
+                height: 222vh;
+            }
+            .comfort1 {
+                left: 273px;
+                top: 552px;
+            }
+            .image8 {
+                left: 274px;
+            }
+            .info {
+                top: 1707px;
+                width: 222%;
+            }
+            .info1 {
+                left: 241px;
+                top: 136px;
+            }
+            .info2 {
+                left: 558px;
+            }
+            .info3 {
+                left: 874px;
+            }
+            .box1 {
+                top: 1706px;
+                width: 222%;
+            }
+            .three {
+                left: 42%;
+                top: 48%;
+            }
+            .four {
+                left: 77%;
+            }
+        }

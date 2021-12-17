@@ -1,0 +1,663 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.header {
+    width: 100%;
+    height: 100vh;
+    position: relative;
+}
+
+.heading-content {
+    position: absolute;
+    left: 10px;
+    top: 30px;
+    color: pink;
+}
+
+.heading-content1 {
+    position: absolute;
+    left: 411px;
+    font-size: 2.2rem;
+    color: rgb(40, 40, 228);
+    top: 236px;
+    width: 20%;
+}
+
+.imag1 {
+    width: 36%;
+    height: 440px;
+    position: absolute;
+    left: 712px;
+    top: 102px;
+}
+
+.heading-content2 {
+    position: absolute;
+    left: 411px;
+    top: 400px;
+    font-size: 23px;
+}
+
+.ul {
+    position: absolute;
+    left: 60%;
+    top: 5%;
+    list-style: none;
+    word-spacing: 47px;
+}
+
+li {
+    padding: left;
+    float: left;
+}
+
+.main-box {
+    width: 100%;
+    height: 263px;
+    position: relative;
+}
+
+.main-box1 {
+    width: 24%;
+    height: 215px;
+    background-color: cyan;
+    position: absolute;
+    left: 37px;
+    top: 48px;
+}
+
+.icon1 {
+    position: absolute;
+    font-size: 65px;
+    left: 102px;
+    top: 33px;
+    color: white;
+}
+
+.paragraph-main {
+    position: absolute;
+    left: 79px;
+    font-size: 30px;
+    color: white;
+    top: 123px;
+}
+
+.main-box2 {
+    width: 24%;
+    height: 215px;
+    background-color: yellow;
+    position: absolute;
+    left: 340px;
+    top: 48px;
+}
+
+.icon2 {
+    position: absolute;
+    font-size: 65px;
+    left: 119px;
+    top: 33px;
+    color: white;
+}
+
+.paragraph-main1 {
+    position: absolute;
+    left: 73px;
+    font-size: 30px;
+    color: white;
+    top: 127px;
+}
+
+.main-box3 {
+    width: 24%;
+    height: 215px;
+    background-color: pink;
+    position: absolute;
+    left: 637px;
+    top: 48px;
+}
+
+.icon3 {
+    position: absolute;
+    font-size: 65px;
+    left: 102px;
+    top: 33px;
+    color: white;
+}
+
+.paragraph-main2 {
+    position: absolute;
+    left: 93px;
+    font-size: 30px;
+    color: white;
+    top: 128px;
+}
+
+.main-box4 {
+    width: 24%;
+    height: 215px;
+    background-color: blue;
+    position: absolute;
+    left: 939px;
+    top: 48px;
+}
+
+.icon4 {
+    position: absolute;
+    font-size: 65px;
+    left: 119px;
+    top: 33px;
+    color: white;
+}
+
+.paragraph-main3 {
+    position: absolute;
+    left: 111px;
+    font-size: 30px;
+    color: white;
+    top: 124px;
+}
+
+.kids-box {
+    width: 100%;
+    height: 66vh;
+    position: relative;
+    background-color: gainsboro;
+}
+
+.heading-kids {
+    position: absolute;
+    color: blue;
+    top: 100px;
+    width: 36%;
+    left: 420px;
+}
+
+.paragraph-kids {
+    position: absolute;
+    top: 190px;
+    left: 361px;
+    width: 623px;
+    color: black;
+}
+
+.pre-school {
+    width: 100%;
+    height: 137vh;
+    background-color: white;
+    position: relative;
+}
+
+.heading-school {
+    position: absolute;
+    top: 74px;
+    left: 487px;
+}
+
+.imag2 {
+    width: 41%;
+    height: 630px;
+    position: absolute;
+    top: 150px;
+    left: 55px;
+}
+
+.inner1 {
+    position: absolute;
+    width: 21%;
+    height: 253px;
+    background-color: lightcyan;
+    left: 626px;
+    top: 180px;
+}
+
+.unique {
+    position: absolute;
+    text-align: right;
+    top: 20px;
+}
+
+.inner-icon {
+    font-size: 30px;
+}
+
+.inner2 {
+    position: absolute;
+    width: 21%;
+    height: 253px;
+    background-color: rgb(223, 137, 197);
+    left: 929px;
+    top: 182px;
+}
+
+.unique1 {
+    position: absolute;
+    text-align: right;
+    top: 20px;
+}
+
+.inner2-icon {
+    font-size: 30px;
+}
+
+.imag3 {
+    width: 21%;
+    height: 331px;
+    position: absolute;
+    left: 626px;
+    top: 447px;
+}
+
+.imag4 {
+    width: 21%;
+    height: 331px;
+    position: absolute;
+    left: 929px;
+    top: 447px;
+}
+
+.key {
+    width: 100%;
+    height: 100vh;
+    position: relative;
+    background-color: rgb(248, 248, 55);
+}
+
+.heading-key {
+    position: absolute;
+    top: 72px;
+    left: 486px;
+}
+
+.key1 {
+    width: 20%;
+    height: 268px;
+    position: absolute;
+    top: 270px;
+    left: 82px;
+    background-color: white;
+}
+
+.key2 {
+    width: 20%;
+    height: 269px;
+    position: absolute;
+    top: 270px;
+    left: 373px;
+    background-color: white;
+}
+
+.key3 {
+    width: 19%;
+    height: 272px;
+    position: absolute;
+    top: 269px;
+    left: 669px;
+    background-color: white;
+}
+
+.key4 {
+    width: 19%;
+    height: 268px;
+    position: absolute;
+    top: 270px;
+    left: 942px;
+    background-color: white;
+}
+
+.key-content {
+    position: absolute;
+    left: 10px;
+    top: 30px;
+}
+
+.icon-keys {
+    font-size: 30px;
+}
+
+.HEADING1 {
+    font-size: 34px;
+    color: pink;
+}
+
+.key-content1 {
+    position: absolute;
+    left: 10px;
+    top: 30px;
+}
+
+.HEADING2 {
+    font-size: 34px;
+    color: blue;
+}
+
+.icon-keys1 {
+    font-size: 30px;
+}
+
+.key-content2 {
+    position: absolute;
+    left: 10px;
+    top: 30px;
+}
+
+.HEADING3 {
+    font-size: 34px;
+    color: green;
+}
+
+.icon-keys2 {
+    font-size: 30px;
+    left: 20px;
+}
+
+.key-content3 {
+    position: absolute;
+    top: 30px;
+    left: 10px;
+}
+
+.HEADING4 {
+    font-size: 34px;
+    color: rgb(248, 248, 10);
+}
+
+.icon-keys3 {
+    font-size: 30px;
+    left: 20px;
+}
+
+.child-class {
+    width: 100%;
+    height: 358px;
+    background-color: gainsboro;
+    position: relative;
+}
+
+.child-content {
+    position: absolute;
+    top: 84px;
+    left: 384px;
+}
+
+.paragraph-child {
+    position: absolute;
+    width: 60%;
+    left: -54px;
+    top: 118px;
+}
+
+.paragraph-chid2 {
+    position: absolute;
+    width: 60%;
+    left: 300px;
+    top: 118px;
+}
+
+.methods {
+    width: 100%;
+    height: 78vh;
+    background-color: rgb(255 144 162);
+    position: relative;
+}
+
+.method1 {
+    width: 30%;
+    height: 373px;
+    background-color: white;
+    position: absolute;
+    top: 45px;
+    left: 444px;
+}
+
+.image5 {
+    width: 27%;
+    height: 376px;
+    position: absolute;
+    top: 45px;
+    left: 79px;
+}
+
+.image6 {
+    width: 26%;
+    height: 374px;
+    position: absolute;
+    top: 45px;
+    left: 852px;
+}
+
+.method-content {
+    position: absolute;
+    top: 35px;
+    padding: 10px;
+}
+
+.paragraph-method {
+    position: absolute;
+    top: 124px;
+}
+
+.education {
+    width: 100%;
+    height: 132vh;
+    background-color: white;
+    position: relative;
+}
+
+.heading-edu {
+    position: absolute;
+    left: 450px;
+    top: 90px;
+}
+
+.image7 {
+    width: 33%;
+    height: 501px;
+    position: absolute;
+    top: 162px;
+    left: 415px;
+}
+
+.edu-content1 {
+    position: absolute;
+    left: 34px;
+    text-align: right;
+    font-size: 12px;
+    top: 176px;
+}
+
+.edu-content2 {
+    position: absolute;
+    left: 51px;
+    text-align: right;
+    font-size: 12px;
+    top: 388px;
+}
+
+.edu-content3 {
+    position: absolute;
+    left: 51px;
+    text-align: right;
+    font-size: 12px;
+    top: 619px;
+}
+
+.edu-content4 {
+    position: absolute;
+    left: 843px;
+    font-size: 12px;
+    top: 176px;
+}
+
+.edu-content5 {
+    position: absolute;
+    left: 843px;
+    font-size: 12px;
+    top: 376px;
+}
+
+.edu-content6 {
+    position: absolute;
+    left: 843px;
+    font-size: 12px;
+    top: 619px;
+}
+
+.comfort {
+    width: 100%;
+    height: 100vh;
+    position: relative;
+    background-color: turquoise;
+}
+
+.heading-com {
+    position: absolute;
+    left: 385px;
+    top: 50px;
+    color: white;
+}
+
+.image8 {
+    width: 40%;
+    height: 417px;
+    position: absolute;
+    left: 138px;
+    top: 138px;
+}
+
+.comfort1 {
+    width: 40%;
+    height: 417px;
+    position: absolute;
+    left: 643px;
+    top: 138px;
+    background-color: white;
+}
+
+.inner3 {
+    position: absolute;
+    left: 30px;
+    top: 109px;
+}
+
+.paragraph-comfort1 {
+    position: absolute;
+    top: 70px;
+    width: 130%;
+}
+
+.paragraph-comfort2 {
+    position: absolute;
+    top: 167px;
+    color: pink;
+}
+
+.info {
+    width: 100%;
+    height: 300px;
+    background-color: whitesmoke;
+    position: relative;
+}
+
+.info1 {
+    width: 60px;
+    height: 60px;
+    border-radius: 50px;
+    background-color: pink;
+    position: absolute;
+    left: 179px;
+    top: 119px;
+}
+
+.info2 {
+    width: 60px;
+    height: 60px;
+    border-radius: 50px;
+    background-color: yellow;
+    position: absolute;
+    left: 566px;
+    top: 129px;
+}
+
+.info3 {
+    width: 60px;
+    height: 60px;
+    border-radius: 50px;
+    background-color: turquoise;
+    position: absolute;
+    left: 970px;
+    top: 128px;
+}
+
+.icon5 {
+    left: 20px;
+    font-size: 29px;
+    position: absolute;
+    top: 15px;
+    color: white;
+}
+
+.icon6 {
+    left: 18px;
+    font-size: 30px;
+    position: absolute;
+    top: 12px;
+    color: white;
+}
+
+.icon7 {
+    left: 17px;
+    font-size: 29px;
+    position: absolute;
+    top: 15px;
+    color: white;
+}
+
+.para-info {
+    position: absolute;
+    left: -46px;
+    top: 82px;
+    width: 300px;
+}
+
+.para-info2 {
+    position: absolute;
+    left: -26px;
+    top: 76px;
+    width: 664px;
+    font-size: 15px;
+}
+
+.para-info3 {
+    position: absolute;
+    left: -64px;
+    top: 81px;
+    width: 344px;
+}
+
+.box1 {
+    width: 100%;
+    height: 230px;
+    position: relative;
+    background-color: violet;
+}
+
+.two {
+    position: absolute;
+    left: 154px;
+    top: 110px;
+}
+
+.three {
+    position: absolute;
+    left: 547px;
+    top: 109px;
+}
+
+.four {
+    position: absolute;
+    left: 949px;
+    top: 115px;
+}
